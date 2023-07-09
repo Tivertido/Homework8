@@ -1,0 +1,15 @@
+E:\Обучение GEEK\Homework8\HW8_4\bin\Debug\net7.0\HW8_4.exe
+E:\Обучение GEEK\Homework8\HW8_4\bin\Debug\net7.0\HW8_4.deps.json
+E:\Обучение GEEK\Homework8\HW8_4\bin\Debug\net7.0\HW8_4.runtimeconfig.json
+E:\Обучение GEEK\Homework8\HW8_4\bin\Debug\net7.0\HW8_4.dll
+E:\Обучение GEEK\Homework8\HW8_4\bin\Debug\net7.0\HW8_4.pdb
+E:\Обучение GEEK\Homework8\HW8_4\obj\Debug\net7.0\HW8_4.csproj.AssemblyReference.cache
+E:\Обучение GEEK\Homework8\HW8_4\obj\Debug\net7.0\HW8_4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Обучение GEEK\Homework8\HW8_4\obj\Debug\net7.0\HW8_4.AssemblyInfoInputs.cache
+E:\Обучение GEEK\Homework8\HW8_4\obj\Debug\net7.0\HW8_4.AssemblyInfo.cs
+E:\Обучение GEEK\Homework8\HW8_4\obj\Debug\net7.0\HW8_4.csproj.CoreCompileInputs.cache
+E:\Обучение GEEK\Homework8\HW8_4\obj\Debug\net7.0\HW8_4.dll
+E:\Обучение GEEK\Homework8\HW8_4\obj\Debug\net7.0\refint\HW8_4.dll
+E:\Обучение GEEK\Homework8\HW8_4\obj\Debug\net7.0\HW8_4.pdb
+E:\Обучение GEEK\Homework8\HW8_4\obj\Debug\net7.0\HW8_4.genruntimeconfig.cache
+E:\Обучение GEEK\Homework8\HW8_4\obj\Debug\net7.0\ref\HW8_4.dll
